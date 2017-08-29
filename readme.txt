@@ -5,6 +5,7 @@ Tags: mime-type, icons, file icons, 3g2, 3gp, ai, air, asf, avi, bib, csv, deb, 
 Requires at least: 3.5
 Tested up to: 4.7
 Stable tag: 3.2.6
+Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
